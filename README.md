@@ -285,4 +285,3 @@ sudo ./gpio_demo
 
 GPL-2.0-only (kernel module et overlay Device Tree) ; la démo en
 userspace est fournie sous la même licence par cohérence.
-
